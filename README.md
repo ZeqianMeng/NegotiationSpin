@@ -16,6 +16,6 @@ to test the developed model, go to the directory where stores the pml files and 
 	spin -t -r -s xxxxx.pml # display the error trace (only run when the verification returns errors)
 
 to test the developed model with interactive and guided simulation, go to the directory where stores the pml files and run the command:
-spin -i xxxxxxx.pml 
+spin -i xxxxx.pml 
 
 then follow the instructions shown in terminal.
